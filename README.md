@@ -21,5 +21,5 @@ Credits and special thanks to:
 
 Thank you for checking us out!
 
-# Created as a Flatiron School student with Jason Chilcott.
+# Created as a Flatiron School student with Aimee Liang.
 
