@@ -21,5 +21,6 @@ Credits and special thanks to:
 
 Thank you for checking us out!
 
-# Created as a Flatiron School student with Aimee Liang. (https://github.com/aimee-liang)
+# Created as a Flatiron School student with Aimee Liang. 
+(https://github.com/aimee-liang)
 
